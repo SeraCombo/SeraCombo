@@ -4,8 +4,8 @@
    <a href="https://github.com/seracombo">
    <img height="180em" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeraCombo&layout=compact)"/>
    <img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeraCombo&show_icons=true&theme=radical)"/>
-
 </div>
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
