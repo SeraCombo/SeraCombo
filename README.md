@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/seracombo">
-   <img height="180em" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeraCombo&layout=compact)"/>
-   <img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeraCombo&show_icons=true&theme=radical)"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seracombo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seracombo&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
