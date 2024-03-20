@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Dev SeraCombo *✧ :heart: 
+## Bem-vindo(a) ao perfil da Dev Ray *✧ :heart: 
 
  <div>
    <a href="https://github.com/seracombo">
@@ -18,6 +18,6 @@
  
 <div> 
  
-  ![Snake animation](https://github.com/SeraCombo/SeraCombo/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/soffiettray/soffiettray/blob/output/github-contribution-grid-snake.svg)
 
 </div>
